@@ -1,0 +1,56 @@
+17:44:40.539 [TestNG-tests-2] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:44:40.541 [TestNG-tests-2] DEBUG testCases.LoginTest - capturing application debug logs....
+17:44:40.589 [TestNG-tests-2] INFO  testCases.LoginTest - Entering valid email and password..
+17:44:41.005 [TestNG-tests-2] INFO  testCases.LoginTest - clicked on ligin button..
+17:44:41.005 [TestNG-tests-2] INFO  testCases.LoginTest - **** Finished TC_002_LoginTest  ****
+17:47:10.994 [TestNG-tests-1] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:47:10.996 [TestNG-tests-1] DEBUG testCases.LoginTest - capturing application debug logs....
+17:47:11.011 [TestNG-tests-1] INFO  testCases.LoginTest - Entering valid email and password..
+17:47:11.161 [TestNG-tests-2] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:47:11.161 [TestNG-tests-2] DEBUG testCases.LoginTest - capturing application debug logs....
+17:47:11.161 [TestNG-tests-2] INFO  testCases.LoginTest - Entering valid email and password..
+17:47:11.192 [TestNG-tests-1] INFO  testCases.LoginTest - clicked on ligin button..
+17:47:11.192 [TestNG-tests-1] INFO  testCases.LoginTest - **** Finished TC_002_LoginTest  ****
+17:48:38.104 [TestNG-tests-2] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:48:38.106 [TestNG-tests-2] DEBUG testCases.LoginTest - capturing application debug logs....
+17:48:38.138 [TestNG-tests-2] INFO  testCases.LoginTest - Entering valid email and password..
+17:48:39.355 [TestNG-tests-2] INFO  testCases.LoginTest - clicked on ligin button..
+17:48:39.355 [TestNG-tests-2] INFO  testCases.LoginTest - **** Finished TC_002_LoginTest  ****
+17:48:39.359 [TestNG-tests-1] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:48:39.359 [TestNG-tests-1] DEBUG testCases.LoginTest - capturing application debug logs....
+17:48:39.359 [TestNG-tests-1] INFO  testCases.LoginTest - Entering valid email and password..
+17:49:36.621 [TestNG-tests-1] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:49:36.623 [TestNG-tests-1] DEBUG testCases.LoginTest - capturing application debug logs....
+17:49:36.639 [TestNG-tests-1] INFO  testCases.LoginTest - Entering valid email and password..
+17:50:14.477 [TestNG-tests-1] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:50:14.481 [TestNG-tests-1] DEBUG testCases.LoginTest - capturing application debug logs....
+17:50:14.497 [TestNG-tests-1] INFO  testCases.LoginTest - Entering valid email and password..
+17:50:15.938 [TestNG-tests-1] INFO  testCases.LoginTest - clicked on ligin button..
+17:50:15.938 [TestNG-tests-1] INFO  testCases.LoginTest - **** Finished TC_002_LoginTest  ****
+17:50:15.941 [TestNG-tests-2] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:50:15.941 [TestNG-tests-2] DEBUG testCases.LoginTest - capturing application debug logs....
+17:50:15.941 [TestNG-tests-2] INFO  testCases.LoginTest - Entering valid email and password..
+17:52:19.075 [main] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:52:19.077 [main] DEBUG testCases.LoginTest - capturing application debug logs....
+17:52:19.090 [main] INFO  testCases.LoginTest - Entering valid email and password..
+17:52:33.326 [main] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:52:33.326 [main] DEBUG testCases.LoginTest - capturing application debug logs....
+17:52:33.326 [main] INFO  testCases.LoginTest - Entering valid email and password..
+17:53:15.500 [main] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:53:15.503 [main] DEBUG testCases.LoginTest - capturing application debug logs....
+17:53:15.515 [main] INFO  testCases.LoginTest - Entering valid email and password..
+17:53:36.172 [main] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:53:36.173 [main] DEBUG testCases.LoginTest - capturing application debug logs....
+17:53:36.184 [main] INFO  testCases.LoginTest - Entering valid email and password..
+17:54:28.604 [main] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:54:28.606 [main] DEBUG testCases.LoginTest - capturing application debug logs....
+17:54:28.618 [main] INFO  testCases.LoginTest - Entering valid email and password..
+17:54:29.991 [main] INFO  testCases.LoginTest - clicked on ligin button..
+17:54:29.991 [main] INFO  testCases.LoginTest - **** Finished TC_002_LoginTest  ****
+17:54:46.567 [main] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+17:54:46.567 [main] DEBUG testCases.LoginTest - capturing application debug logs....
+17:54:46.567 [main] INFO  testCases.LoginTest - Entering valid email and password..
+17:54:46.719 [main] INFO  testCases.LoginTest - clicked on ligin button..
+17:54:46.719 [main] INFO  testCases.LoginTest - **** Finished TC_002_LoginTest  ****
+18:25:57.490 [main] INFO  testCases.LoginTest - **** Starting TC_002_LoginTest  ****
+18:25:57.493 [main] DEBUG testCases.LoginTest - capturing application debug logs....

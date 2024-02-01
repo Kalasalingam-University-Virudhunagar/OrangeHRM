@@ -1,0 +1,24 @@
+11:52:02.596 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:02.609 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:02.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:02.633 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:02.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:02.658 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:02.678 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:02.679 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:02.701 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:02.702 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:02.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:02.725 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:02.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:52:02.755 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:52:02.791 [main] INFO  testCases.LoginDDT - **** Starting TC_003_LoginDDT *****
+11:52:19.754 [main] INFO  testCases.LoginDDT - **** Finished TC_003_LoginDDT *****
+11:52:19.774 [main] INFO  testCases.LoginDDT - **** Starting TC_003_LoginDDT *****
+11:52:32.110 [main] INFO  testCases.LoginDDT - **** Finished TC_003_LoginDDT *****
+11:52:32.112 [main] INFO  testCases.LoginDDT - **** Starting TC_003_LoginDDT *****
+11:52:47.626 [main] INFO  testCases.LoginDDT - **** Finished TC_003_LoginDDT *****
+11:52:47.627 [main] INFO  testCases.LoginDDT - **** Starting TC_003_LoginDDT *****
+11:52:59.884 [main] INFO  testCases.LoginDDT - **** Finished TC_003_LoginDDT *****
+11:52:59.886 [main] INFO  testCases.LoginDDT - **** Starting TC_003_LoginDDT *****
+11:53:12.171 [main] INFO  testCases.LoginDDT - **** Finished TC_003_LoginDDT *****
